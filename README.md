@@ -32,7 +32,7 @@ Setup and Installation
         department VARCHAR(50),
         salary DOUBLE
         );
- <b>3. Configure Database Connection</b>
+ 3. <b>Configure Database Connection</b>
     Update the database credentials in the DBConnection.java file:
 
         private static final String URL = "jdbc:mysql://localhost:3306/EmployeeDB";
